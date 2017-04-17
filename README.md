@@ -30,6 +30,16 @@ Everything about Apache Kafka
 * [Elasticsearch](https://github.com/confluentinc/kafka-connect-elasticsearch)
 * [HDFS](https://github.com/confluentinc/kafka-connect-hdfs)
 
+### Tools
+
+* [REST-proxy](https://github.com/confluentinc/kafka-rest)
+* [Reactive/Akka API](https://github.com/akka/reactive-kafka)
+* [kafka-manager](https://github.com/yahoo/kafka-manager)
+* [kafkat](https://github.com/airbnb/kafkat)
+* [kt](https://github.com/fgeller/kt)
+* [kafka-connect-tools](https://github.com/datamountaineer/kafka-connect-tools)
+* [Kafka-monitor](https://github.com/linkedin/kafka-monitor)
+
 ### Performance tools
 
 * [sangrenel](https://github.com/jamiealquiza/sangrenel)
