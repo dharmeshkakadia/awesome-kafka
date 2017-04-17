@@ -3,7 +3,7 @@ Everything about Apache Kafka
 
 ### Client libraries 
 
-* [Go](https://github.com/Shopify/sarama Sarama)
+* [Go](https://github.com/Shopify/sarama)
 * [Go](https://github.com/jdamick/kafka)
 * [Go](https://github.com/optiopay/kafka)
 * [Node](https://github.com/oleksiyk/kafka)
