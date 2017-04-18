@@ -48,3 +48,9 @@ Everything about Apache Kafka
 
 * [Ecosystem](https://cwiki.apache.org/confluence/display/KAFKA/Ecosystem)
 * [asyncio](https://github.com/aio-libs/aiokafka)
+
+## Alternative Implementations
+
+* [Go](https://github.com/travisjeffery/jocko)
+* [C/C++](https://github.com/edenhill/librdkafka)
+* [In-memory/Embedded](https://github.com/manub/scalatest-embedded-kafka)
