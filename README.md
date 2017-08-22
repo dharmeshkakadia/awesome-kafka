@@ -13,7 +13,6 @@ Everything about Apache Kafka
 * [Python](https://github.com/Parsely/pykafka)
 * [Ruby](https://github.com/zendesk/ruby-kafka)
 * [Dart](https://github.com/dart-kafka/kafka)
-* [Ruby](https://github.com/zendesk/ruby-kafka)
 * [JRuby](https://github.com/joekiller/jruby-kafka)
 * [Elixir](https://github.com/kafkaex/kafka_ex)
 * and [others](https://cwiki.apache.org/confluence/display/KAFKA/Clients)
