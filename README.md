@@ -20,6 +20,7 @@ Everything about Apache Kafka
 ### Managed Services
 
 ### Monitoring
+* [Kafka Offset Exporter](https://github.com/echojc/kafka-offset-exporter)
 
 ### Utilities
 
