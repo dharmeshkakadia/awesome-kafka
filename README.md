@@ -7,6 +7,9 @@ Everything about Apache Kafka
 * [Go](https://github.com/jdamick/kafka)
 * [Go](https://github.com/optiopay/kafka)
 * [Node](https://github.com/oleksiyk/kafka)
+* [Node](https://github.com/nodefluent/node-sinek)
+* [Node Kafka streams](https://github.com/nodefluent/kafka-streams)
+* [Node librdkafka](https://github.com/nodefluent/node-rdkafka)
 * [Php](https://github.com/weiboad/kafka-php)
 * [Php](https://github.com/arnaud-lb/php-rdkafka)
 * [Perl](https://github.com/TrackingSoft/Kafka)
@@ -34,6 +37,10 @@ Everything about Apache Kafka
 * [JDBC](https://github.com/confluentinc/kafka-connect-jdbc)
 * [Elasticsearch](https://github.com/confluentinc/kafka-connect-elasticsearch)
 * [HDFS](https://github.com/confluentinc/kafka-connect-hdfs)
+* [BigQuery](https://github.com/nodefluent/bigquery-kafka-connect)
+* [SQL](https://github.com/nodefluent/sequelize-kafka-connect)
+* [GCloud pubsub](https://github.com/nodefluent/gcloud-pubsub-kafka-connect)
+* [BigTable](https://github.com/nodefluent/bigtable-kafka-connect)  
 
 ### Tools
 
@@ -43,9 +50,14 @@ Everything about Apache Kafka
 * [kafkat](https://github.com/airbnb/kafkat)
 * [kt](https://github.com/fgeller/kt)
 * [kafka-connect-tools](https://github.com/datamountaineer/kafka-connect-tools)
+* [Node Kafka connect](https://github.com/nodefluent/kafka-connect)
 * [Kafka-monitor](https://github.com/linkedin/kafka-monitor)
 * [Kafka Auto completion](https://github.com/Landoop/kafka-autocomplete)
 * [Kafka Cheet Sheet](https://github.com/Landoop/kafka-cheat-sheet)
+
+### Schema 
+* [Schema registry](https://github.com/confluentinc/schema-registry)
+* [Node Schema registry](https://github.com/nodefluent/schema-registry)
 
 ### UI
 * [Kafka Topics UI](https://github.com/Landoop/kafka-topics-ui)
@@ -84,3 +96,4 @@ Everything about Apache Kafka
 * https://github.com/Landoop/kafka-ws
 * https://github.com/Landoop/kafka-connect-kcql-smt
 * https://github.com/Landoop/kafka-addons
+* https://github.com/nodefluent/purpur
