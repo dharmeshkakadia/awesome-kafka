@@ -6,6 +6,7 @@ Everything about Apache Kafka
 * [Go](https://github.com/Shopify/sarama)
 * [Go](https://github.com/jdamick/kafka)
 * [Go](https://github.com/optiopay/kafka)
+* [Go Kafka streaming](https://github.com/lovoo/goka)
 * [Node](https://github.com/oleksiyk/kafka)
 * [Node](https://github.com/nodefluent/node-sinek)
 * [Node Kafka streams](https://github.com/nodefluent/kafka-streams)
