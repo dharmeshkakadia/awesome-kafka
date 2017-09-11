@@ -54,6 +54,7 @@ Everything about Apache Kafka
 
 ### Dev Tools
 * [Kafka WebSocket JS lib](https://github.com/Landoop/kafka-ws-js)
+* [Winton Kafka Streams](https://github.com/wintoncode/winton-kafka-streams)
 
 ### Testing
 * [Unit-testing for embedded kafka services](https://github.com/Landoop/kafka-testing)
