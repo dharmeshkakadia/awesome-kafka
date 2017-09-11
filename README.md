@@ -43,6 +43,25 @@ Everything about Apache Kafka
 * [kt](https://github.com/fgeller/kt)
 * [kafka-connect-tools](https://github.com/datamountaineer/kafka-connect-tools)
 * [Kafka-monitor](https://github.com/linkedin/kafka-monitor)
+* [Kafka Auto completion](https://github.com/Landoop/kafka-autocomplete)
+* [Kafka Cheet Sheet](https://github.com/Landoop/kafka-cheat-sheet)
+
+### UI
+* [Kafka Topics UI](https://github.com/Landoop/kafka-topics-ui)
+* [Kafka Connect UI](https://github.com/Landoop/kafka-connect-ui)
+* [Kafka Schema UI](https://github.com/Landoop/schema-registry-ui)
+
+
+### Dev Tools
+* [Kafka WebSocket JS lib](https://github.com/Landoop/kafka-ws-js)
+
+### Testing
+* [Unit-testing for embedded kafka services](https://github.com/Landoop/kafka-testing)
+* [Synthetic avro message generator for Kafka](https://github.com/Landoop/landoop-avro-generator)
+
+
+### Docker 
+* [https://github.com/Landoop/fast-data-dev](https://github.com/Landoop/fast-data-dev)
 
 ### Performance tools
 
@@ -58,3 +77,8 @@ Everything about Apache Kafka
 * [Go](https://github.com/travisjeffery/jocko)
 * [C/C++](https://github.com/edenhill/librdkafka)
 * [In-memory/Embedded](https://github.com/manub/scalatest-embedded-kafka)
+
+## Unsorted
+* https://github.com/Landoop/kafka-ws
+* https://github.com/Landoop/kafka-connect-kcql-smt
+* https://github.com/Landoop/kafka-addons
