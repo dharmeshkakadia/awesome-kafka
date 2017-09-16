@@ -80,7 +80,7 @@ Everything about Apache Kafka
 
 
 ### Docker 
-* [https://github.com/Landoop/fast-data-dev](https://github.com/Landoop/fast-data-dev)
+* [fast-data-dev](https://github.com/Landoop/fast-data-dev)
 
 ### Performance tools
 
