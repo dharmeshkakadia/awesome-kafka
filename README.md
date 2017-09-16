@@ -16,9 +16,11 @@ Everything about Apache Kafka
 * [Perl](https://github.com/TrackingSoft/Kafka)
 * [Python](https://github.com/Parsely/pykafka)
 * [Ruby](https://github.com/zendesk/ruby-kafka)
+* [Phobos - Ruby App framework](https://github.com/klarna/phobos)
 * [Dart](https://github.com/dart-kafka/kafka)
 * [JRuby](https://github.com/joekiller/jruby-kafka)
 * [Elixir](https://github.com/kafkaex/kafka_ex)
+* [Erlang](https://github.com/klarna/brod)
 * and [others](https://cwiki.apache.org/confluence/display/KAFKA/Clients)
 
 ### Managed Services
@@ -28,6 +30,7 @@ Everything about Apache Kafka
 
 ### Utilities
 * [Cruise control](https://github.com/linkedin/cruise-control)
+* [Brucke - Inter-cluster bridge of kafka topics](https://github.com/klarna/brucke)
 
 ### Installation
 
@@ -55,6 +58,7 @@ Everything about Apache Kafka
 * [Kafka-monitor](https://github.com/linkedin/kafka-monitor)
 * [Kafka Auto completion](https://github.com/Landoop/kafka-autocomplete)
 * [Kafka Cheet Sheet](https://github.com/Landoop/kafka-cheat-sheet)
+* [Kafka Write Protocol encoder/decoder](https://github.com/klarna/kafka_protocol)
 
 ### Schema 
 * [Schema registry](https://github.com/confluentinc/schema-registry)
