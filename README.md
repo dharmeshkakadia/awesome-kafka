@@ -71,7 +71,7 @@ Everything about Apache Kafka
 
 
 ### Dev Tools
-* [Kafka WebSocket JS lib](https://github.com/Landoop/kafka-ws-js)
+
 * [Winton Kafka Streams](https://github.com/wintoncode/winton-kafka-streams)
 
 ### Testing
@@ -98,7 +98,7 @@ Everything about Apache Kafka
 * [In-memory/Embedded](https://github.com/manub/scalatest-embedded-kafka)
 
 ## Unsorted
-* https://github.com/Landoop/kafka-ws
+
 * https://github.com/Landoop/kafka-connect-kcql-smt
 * https://github.com/Landoop/kafka-addons
 * https://github.com/nodefluent/purpur
