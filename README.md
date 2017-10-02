@@ -75,6 +75,7 @@ Everything about Apache Kafka
 
 * [Winton Kafka Streams](https://github.com/wintoncode/winton-kafka-streams)
 * [Kafka-Pixy - gRPC/REST Proxy](https://github.com/mailgun/kafka-pixy)
+* [Spring-kafka](https://github.com/spring-projects/spring-kafka)
 
 ### Testing
 * [Unit-testing for embedded kafka services](https://github.com/Landoop/kafka-testing)
