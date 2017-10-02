@@ -50,6 +50,7 @@ Everything about Apache Kafka
 ### Tools
 
 * [REST-proxy](https://github.com/confluentinc/kafka-rest)
+* [Kafka-Pixy - gRPC/REST Proxy](https://github.com/mailgun/kafka-pixy)
 * [Reactive/Akka API](https://github.com/akka/reactive-kafka)
 * [kafka-manager](https://github.com/yahoo/kafka-manager)
 * [kafkat](https://github.com/airbnb/kafkat)
@@ -60,6 +61,8 @@ Everything about Apache Kafka
 * [Kafka Auto completion](https://github.com/Landoop/kafka-autocomplete)
 * [Kafka Cheet Sheet](https://github.com/Landoop/kafka-cheat-sheet)
 * [Kafka Write Protocol encoder/decoder](https://github.com/klarna/kafka_protocol)
+* [Winton Kafka Streams](https://github.com/wintoncode/winton-kafka-streams)
+* [Spring-kafka](https://github.com/spring-projects/spring-kafka)
 
 ### Schema 
 * [Schema registry](https://github.com/confluentinc/schema-registry)
@@ -70,12 +73,6 @@ Everything about Apache Kafka
 * [Kafka Connect UI](https://github.com/Landoop/kafka-connect-ui)
 * [Kafka Schema UI](https://github.com/Landoop/schema-registry-ui)
 
-
-### Dev Tools
-
-* [Winton Kafka Streams](https://github.com/wintoncode/winton-kafka-streams)
-* [Kafka-Pixy - gRPC/REST Proxy](https://github.com/mailgun/kafka-pixy)
-* [Spring-kafka](https://github.com/spring-projects/spring-kafka)
 
 ### Testing
 * [Unit-testing for embedded kafka services](https://github.com/Landoop/kafka-testing)
