@@ -54,6 +54,7 @@ Everything about Apache Kafka
 * [Kafka-Pixy - gRPC/REST Proxy](https://github.com/mailgun/kafka-pixy)
 * [Reactive/Akka API](https://github.com/akka/reactive-kafka)
 * [kafka-manager](https://github.com/yahoo/kafka-manager)
+* [Kafdrop](https://github.com/HomeAdvisor/Kafdrop)
 * [kafkat](https://github.com/airbnb/kafkat)
 * [kt](https://github.com/fgeller/kt)
 * [kafka-connect-tools](https://github.com/datamountaineer/kafka-connect-tools)
