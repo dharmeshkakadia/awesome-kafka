@@ -64,6 +64,10 @@ Everything about Apache Kafka
 * [Winton Kafka Streams](https://github.com/wintoncode/winton-kafka-streams)
 * [Spring-kafka](https://github.com/spring-projects/spring-kafka)
 
+### Mirroring
+* [MirrorMaker](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=27846330)
+* [uReplicator](https://github.com/uber/uReplicator)
+
 ### Schema 
 * [Schema registry](https://github.com/confluentinc/schema-registry)
 * [Node Schema registry](https://github.com/nodefluent/schema-registry)
