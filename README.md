@@ -27,6 +27,7 @@ Everything about Apache Kafka
 
 ### Monitoring
 * [Kafka Offset Exporter](https://github.com/echojc/kafka-offset-exporter)
+* [Fluent plugin](https://github.com/fluent/fluent-plugin-kafka)
 
 ### Utilities
 * [Cruise control](https://github.com/linkedin/cruise-control)
