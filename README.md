@@ -65,6 +65,7 @@ Everything about Apache Kafka
 * [Kafka Cheet Sheet](https://github.com/Landoop/kafka-cheat-sheet)
 * [Kafka Write Protocol encoder/decoder](https://github.com/klarna/kafka_protocol)
 * [Winton Kafka Streams](https://github.com/wintoncode/winton-kafka-streams)
+* [MockedStreams - Unit testing library for Kafka streams](https://github.com/jpzk/mockedstreams)
 * [Spring-kafka](https://github.com/spring-projects/spring-kafka)
 
 ### Mirroring
