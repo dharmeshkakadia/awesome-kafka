@@ -21,6 +21,7 @@ Everything about Apache Kafka
 * [JRuby](https://github.com/joekiller/jruby-kafka)
 * [Elixir](https://github.com/kafkaex/kafka_ex)
 * [Erlang](https://github.com/klarna/brod)
+* [Rust](https://github.com/spicavigo/kafka-rust)
 * and [others](https://cwiki.apache.org/confluence/display/KAFKA/Clients)
 
 ### Managed Services
