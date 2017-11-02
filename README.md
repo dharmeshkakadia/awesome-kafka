@@ -51,6 +51,11 @@ Everything about Apache Kafka
 * [HBase](https://github.com/mravi/kafka-connect-hbase)
 * [FileSystem](https://github.com/mmolimar/kafka-connect-fs)
 
+### Consumers
+
+* [Spark](https://github.com/dibbhatt/kafka-spark-consumer)
+* [Storm](https://github.com/apache/storm/tree/master/external/storm-kafka)
+
 ### Tools
 
 * [REST-proxy](https://github.com/confluentinc/kafka-rest)
