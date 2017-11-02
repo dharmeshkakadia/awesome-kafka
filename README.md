@@ -48,6 +48,7 @@ Everything about Apache Kafka
 * [GCloud pubsub](https://github.com/nodefluent/gcloud-pubsub-kafka-connect)
 * [BigTable](https://github.com/nodefluent/bigtable-kafka-connect)  
 * [HBase](https://github.com/mravi/kafka-connect-hbase)
+* [FileSystem](https://github.com/mmolimar/kafka-connect-fs)
 
 ### Tools
 
