@@ -24,6 +24,9 @@ Everything about Apache Kafka
 * [Rust](https://github.com/spicavigo/kafka-rust)
 * and [others](https://cwiki.apache.org/confluence/display/KAFKA/Clients)
 
+### Kafka Streams Libraries 
+* [Scala](https://github.com/lightbend/kafka-streams-scala)
+
 ### Managed Services
 
 ### Monitoring
