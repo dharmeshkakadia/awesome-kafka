@@ -97,6 +97,9 @@ Everything about Apache Kafka
 * [Synthetic avro message generator for Kafka](https://github.com/Landoop/landoop-avro-generator)
 
 
+### Kubernetes
+* [Kafka k8s operator](https://github.com/krallistic/kafka-operator)
+
 ### Docker 
 * [fast-data-dev](https://github.com/Landoop/fast-data-dev)
 
