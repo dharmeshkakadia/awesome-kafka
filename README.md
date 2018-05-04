@@ -95,7 +95,8 @@ Everything about Apache Kafka
 ### Testing
 * [Unit-testing for embedded kafka services](https://github.com/Landoop/kafka-testing)
 * [Synthetic avro message generator for Kafka](https://github.com/Landoop/landoop-avro-generator)
-
+* [Kafka JUnit](https://github.com/salesforce/kafka-junit)
+* [Kafka Unit](https://github.com/chbatey/kafka-unit)
 
 ### Kubernetes
 * [Kafka k8s operator](https://github.com/krallistic/kafka-operator)
