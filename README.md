@@ -12,6 +12,7 @@ Everything about Apache Kafka
 * [Node Kafka streams](https://github.com/nodefluent/kafka-streams)
 * [Node librdkafka](https://github.com/nodefluent/node-rdkafka)
 * [Php](https://github.com/weiboad/kafka-php)
+* [Php](https://github.com/weiboad/kafka-php)
 * [Php](https://github.com/arnaud-lb/php-rdkafka)
 * [Perl](https://github.com/TrackingSoft/Kafka)
 * [Python](https://github.com/Parsely/pykafka)
