@@ -17,6 +17,7 @@ Everything about Apache Kafka
 * [Python](https://github.com/Parsely/pykafka)
 * [Ruby](https://github.com/zendesk/ruby-kafka)
 * [Phobos - Ruby App framework](https://github.com/klarna/phobos)
+* [Karafka - Ruby and Rails framework](https://github.com/karafka/karafka)
 * [Dart](https://github.com/dart-kafka/kafka)
 * [JRuby](https://github.com/joekiller/jruby-kafka)
 * [Elixir](https://github.com/kafkaex/kafka_ex)
