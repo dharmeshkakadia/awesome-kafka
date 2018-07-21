@@ -79,6 +79,9 @@ Everything about Apache Kafka
 * [MockedStreams - Unit testing library for Kafka streams](https://github.com/jpzk/mockedstreams)
 * [Spring-kafka](https://github.com/spring-projects/spring-kafka)
 
+### Metadata
+* [Go library for Kafka metadata in Zookeeper](https://github.com/wvanbergen/kazoo-go)
+
 ### Mirroring
 * [MirrorMaker](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=27846330)
 * [uReplicator](https://github.com/uber/uReplicator)
