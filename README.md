@@ -37,6 +37,7 @@ Everything about Apache Kafka
 
 ### Utilities
 * [Cruise control](https://github.com/linkedin/cruise-control)
+* [DoctorKafka](https://github.com/pinterest/doctorkafka/)
 * [Brucke - Inter-cluster bridge of kafka topics](https://github.com/klarna/brucke)
 
 ### Installation
