@@ -60,6 +60,7 @@ Everything about Apache Kafka
 
 * [Spark](https://github.com/dibbhatt/kafka-spark-consumer)
 * [Storm](https://github.com/apache/storm/tree/master/external/storm-kafka)
+* [Mapreduce](https://github.com/Conductor/kangaroo)
 
 ### Tools
 
