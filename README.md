@@ -34,6 +34,7 @@ Everything about Apache Kafka
 * [Kafka Offset Exporter](https://github.com/echojc/kafka-offset-exporter)
 * [Fluent plugin](https://github.com/fluent/fluent-plugin-kafka)
 * [Burrow - Kafka Consumer Lag Checking](https://github.com/linkedin/Burrow)
+* [Remora](https://github.com/zalando-incubator/remora)
 
 ### Utilities
 * [Cruise control](https://github.com/linkedin/cruise-control)
