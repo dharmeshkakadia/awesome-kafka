@@ -28,7 +28,7 @@ Everything about Apache Kafka
 ### Kafka Streams Libraries 
 * [Scala](https://github.com/lightbend/kafka-streams-scala)
 
-### Managed Services
+<!--- ### Managed Services  -->
 
 ### Monitoring
 * [Kafka Offset Exporter](https://github.com/echojc/kafka-offset-exporter)
@@ -41,9 +41,9 @@ Everything about Apache Kafka
 * [DoctorKafka](https://github.com/pinterest/doctorkafka/)
 * [Brucke - Inter-cluster bridge of kafka topics](https://github.com/klarna/brucke)
 
-### Installation
+<!--- ### Installation  -->
 
-### Best Practices
+<!--- ### Best Practices  -->
 
 ### Connectors 
 
@@ -81,6 +81,7 @@ Everything about Apache Kafka
 * [Winton Kafka Streams](https://github.com/wintoncode/winton-kafka-streams)
 * [MockedStreams - Unit testing library for Kafka streams](https://github.com/jpzk/mockedstreams)
 * [Spring-kafka](https://github.com/spring-projects/spring-kafka)
+* [Maven quick start for Kafka Connect connectors](https://github.com/jcustenborder/kafka-connect-archtype)
 
 ### Metadata
 * [Go library for Kafka metadata in Zookeeper](https://github.com/wvanbergen/kazoo-go)
