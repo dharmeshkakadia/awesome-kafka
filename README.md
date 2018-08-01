@@ -23,6 +23,7 @@ Everything about Apache Kafka
 * [Elixir](https://github.com/kafkaex/kafka_ex)
 * [Erlang](https://github.com/klarna/brod)
 * [Rust](https://github.com/spicavigo/kafka-rust)
+* [LinkedIn wrapper library](https://github.com/linkedin/li-apache-kafka-clients)
 * and [others](https://cwiki.apache.org/confluence/display/KAFKA/Clients)
 
 ### Kafka Streams Libraries 
