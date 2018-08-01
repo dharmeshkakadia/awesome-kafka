@@ -36,6 +36,9 @@ Everything about Apache Kafka
 * [Burrow - Kafka Consumer Lag Checking](https://github.com/linkedin/Burrow)
 * [Remora](https://github.com/zalando-incubator/remora)
 
+### Security
+* [Kafka Security Manager](https://github.com/simplesteph/kafka-security-manager)
+
 ### Utilities
 * [Cruise control](https://github.com/linkedin/cruise-control)
 * [DoctorKafka](https://github.com/pinterest/doctorkafka/)
