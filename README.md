@@ -44,6 +44,7 @@ Everything about Apache Kafka
 * [Cruise control](https://github.com/linkedin/cruise-control)
 * [DoctorKafka](https://github.com/pinterest/doctorkafka/)
 * [Brucke - Inter-cluster bridge of kafka topics](https://github.com/klarna/brucke)
+* [Kafka-Kit](https://github.com/DataDog/kafka-kit)
 
 <!--- ### Installation  -->
 
