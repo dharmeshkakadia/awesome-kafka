@@ -84,7 +84,6 @@ Everything about Apache Kafka
 * [Kafka Cheet Sheet](https://github.com/Landoop/kafka-cheat-sheet)
 * [Kafka Write Protocol encoder/decoder](https://github.com/klarna/kafka_protocol)
 * [Winton Kafka Streams](https://github.com/wintoncode/winton-kafka-streams)
-* [MockedStreams - Unit testing library for Kafka streams](https://github.com/jpzk/mockedstreams)
 * [Spring-kafka](https://github.com/spring-projects/spring-kafka)
 * [Maven quick start for Kafka Connect connectors](https://github.com/jcustenborder/kafka-connect-archtype)
 
@@ -106,6 +105,7 @@ Everything about Apache Kafka
 
 
 ### Testing
+* [Mocked Streams - Topology testing library for Kafka Streams (no broker required)](https://github.com/jpzk/mockedstreams)
 * [Unit-testing for embedded kafka services](https://github.com/Landoop/kafka-testing)
 * [Synthetic avro message generator for Kafka](https://github.com/Landoop/landoop-avro-generator)
 * [Kafka JUnit](https://github.com/salesforce/kafka-junit)
