@@ -36,6 +36,7 @@ Everything about Apache Kafka
 * [Fluent plugin](https://github.com/fluent/fluent-plugin-kafka)
 * [Burrow - Kafka Consumer Lag Checking](https://github.com/linkedin/Burrow)
 * [Remora](https://github.com/zalando-incubator/remora)
+* [Kafka Offset Monitoring](https://github.com/Morningstar/kafka-offset-monitor)
 
 ### Security
 * [Kafka Security Manager](https://github.com/simplesteph/kafka-security-manager)
