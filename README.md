@@ -73,6 +73,7 @@ Everything about Apache Kafka
 
 * [REST-proxy](https://github.com/confluentinc/kafka-rest)
 * [Kafka-Pixy - gRPC/REST Proxy](https://github.com/mailgun/kafka-pixy)
+* [Kafka Proxy providing SASL/PLAIN authentication and SSL](https://github.com/grepplabs/kafka-proxy)
 * [Reactive/Akka API](https://github.com/akka/reactive-kafka)
 * [kafka-manager](https://github.com/yahoo/kafka-manager)
 * [Kafdrop](https://github.com/HomeAdvisor/Kafdrop)
