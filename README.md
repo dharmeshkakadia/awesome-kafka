@@ -112,6 +112,7 @@ Everything about Apache Kafka
 * [Synthetic avro message generator for Kafka](https://github.com/Landoop/landoop-avro-generator)
 * [Kafka JUnit](https://github.com/salesforce/kafka-junit)
 * [Kafka Unit](https://github.com/chbatey/kafka-unit)
+* [Kafka for JUnit](https://github.com/mguenther/kafka-junit)
 
 ### Kubernetes
 * [Kafka k8s operator](https://github.com/krallistic/kafka-operator)
