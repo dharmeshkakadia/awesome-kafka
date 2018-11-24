@@ -116,6 +116,7 @@ Everything about Apache Kafka
 
 ### Kubernetes
 * [Kafka k8s operator](https://github.com/krallistic/kafka-operator)
+* [Strimzi](https://github.com/strimzi/strimzi-kafka-operator) Operator for deploying and running Apache Kafka on Kubernetes
 
 ### Docker 
 * [fast-data-dev](https://github.com/Landoop/fast-data-dev)
