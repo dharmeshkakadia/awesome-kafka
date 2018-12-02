@@ -28,6 +28,10 @@ Everything about Apache Kafka
 
 ### Kafka Streams Libraries 
 * [Scala](https://github.com/lightbend/kafka-streams-scala)
+* [faust - Python Stream Processing](https://github.com/robinhood/faust)
+
+### KSQl
+* [KSQL JDBC Driver](https://github.com/mmolimar/ksql-jdbc-driver)
 
 <!--- ### Managed Services  -->
 
@@ -62,6 +66,9 @@ Everything about Apache Kafka
 * [BigTable](https://github.com/nodefluent/bigtable-kafka-connect)  
 * [HBase](https://github.com/mravi/kafka-connect-hbase)
 * [FileSystem](https://github.com/mmolimar/kafka-connect-fs)
+
+### Producers
+* [Maxwell's daemon - a mysql-to-json kafka producer ](https://github.com/zendesk/maxwell)
 
 ### Consumers
 
