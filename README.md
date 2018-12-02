@@ -32,6 +32,7 @@ Everything about Apache Kafka
 
 ### KSQl
 * [KSQL JDBC Driver](https://github.com/mmolimar/ksql-jdbc-driver)
+* [KSQL Addon - User Defined Function (UDF) for Machine Learning](https://github.com/kaiwaehner/ksql-machine-learning-udf)
 
 <!--- ### Managed Services  -->
 
@@ -45,11 +46,15 @@ Everything about Apache Kafka
 ### Security
 * [Kafka Security Manager](https://github.com/simplesteph/kafka-security-manager)
 
+### Audit
+* [chaperone - A Kafka audit system](https://github.com/uber/chaperone)
+
 ### Utilities
 * [Cruise control](https://github.com/linkedin/cruise-control)
 * [DoctorKafka](https://github.com/pinterest/doctorkafka/)
 * [Brucke - Inter-cluster bridge of kafka topics](https://github.com/klarna/brucke)
 * [Kafka-Kit](https://github.com/DataDog/kafka-kit)
+* [Secor - service for persisting Kafka logs](https://github.com/pinterest/secor)
 
 <!--- ### Installation  -->
 
