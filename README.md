@@ -24,6 +24,7 @@ Everything about Apache Kafka
 * [Erlang](https://github.com/klarna/brod)
 * [Rust](https://github.com/spicavigo/kafka-rust)
 * [LinkedIn wrapper library](https://github.com/linkedin/li-apache-kafka-clients)
+* [kasper - a lightweight library for processing Kafka topics](https://github.com/movio/kasper)
 * and [others](https://cwiki.apache.org/confluence/display/KAFKA/Clients)
 
 ### Kafka Streams Libraries 
@@ -42,6 +43,7 @@ Everything about Apache Kafka
 * [Burrow - Kafka Consumer Lag Checking](https://github.com/linkedin/Burrow)
 * [Remora](https://github.com/zalando-incubator/remora)
 * [Kafka Offset Monitoring](https://github.com/Morningstar/kafka-offset-monitor)
+* [kafka-eagle](https://github.com/smartloli/kafka-eagle)
 
 ### Security
 * [Kafka Security Manager](https://github.com/simplesteph/kafka-security-manager)
@@ -55,6 +57,8 @@ Everything about Apache Kafka
 * [Brucke - Inter-cluster bridge of kafka topics](https://github.com/klarna/brucke)
 * [Kafka-Kit](https://github.com/DataDog/kafka-kit)
 * [Secor - service for persisting Kafka logs](https://github.com/pinterest/secor)
+* [kafkabalancer](https://github.com/CAFxX/kafkabalancer)
+* [Yelp Kafka-Utils](https://github.com/Yelp/kafka-utils)
 
 <!--- ### Installation  -->
 
@@ -71,6 +75,9 @@ Everything about Apache Kafka
 * [BigTable](https://github.com/nodefluent/bigtable-kafka-connect)  
 * [HBase](https://github.com/mravi/kafka-connect-hbase)
 * [FileSystem](https://github.com/mmolimar/kafka-connect-fs)
+* [kafka-connect-protobuf-converter](https://github.com/blueapron/kafka-connect-protobuf-converter)
+* [IBM MQ](https://github.com/ibm-messaging/kafka-connect-mq-source)
+* [Azure IoT Hub](https://github.com/Azure/toketi-kafka-connect-iothub)
 
 ### Producers
 * [Maxwell's daemon - a mysql-to-json kafka producer ](https://github.com/zendesk/maxwell)
@@ -117,7 +124,6 @@ Everything about Apache Kafka
 * [Kafka Connect UI](https://github.com/Landoop/kafka-connect-ui)
 * [Kafka Schema UI](https://github.com/Landoop/schema-registry-ui)
 
-
 ### Testing
 * [Mocked Streams - Topology testing library for Kafka Streams (no broker required)](https://github.com/jpzk/mockedstreams)
 * [Unit-testing for embedded kafka services](https://github.com/Landoop/kafka-testing)
@@ -141,6 +147,7 @@ Everything about Apache Kafka
 
 * [Ecosystem](https://cwiki.apache.org/confluence/display/KAFKA/Ecosystem)
 * [asyncio](https://github.com/aio-libs/aiokafka)
+* [hermes](https://github.com/allegro/hermes)
 
 ## Alternative Implementations
 
