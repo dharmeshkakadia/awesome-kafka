@@ -131,6 +131,7 @@ Everything about Apache Kafka
 * [Kafka JUnit](https://github.com/salesforce/kafka-junit)
 * [Kafka Unit](https://github.com/chbatey/kafka-unit)
 * [Kafka for JUnit](https://github.com/mguenther/kafka-junit)
+* [embedded-kafka - in-memory Kafka instance to run your tests against](https://github.com/embeddedkafka/embedded-kafka)
 
 ### Kubernetes
 * [Kafka k8s operator](https://github.com/krallistic/kafka-operator)
@@ -153,7 +154,6 @@ Everything about Apache Kafka
 
 * [Go](https://github.com/travisjeffery/jocko)
 * [C/C++](https://github.com/edenhill/librdkafka)
-* [In-memory/Embedded](https://github.com/manub/scalatest-embedded-kafka)
 
 ## Unsorted
 
