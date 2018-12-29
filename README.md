@@ -95,6 +95,7 @@ Everything about Apache Kafka
 * [Kafka Proxy providing SASL/PLAIN authentication and SSL](https://github.com/grepplabs/kafka-proxy)
 * [Reactive/Akka API](https://github.com/akka/reactive-kafka)
 * [kafka-manager](https://github.com/yahoo/kafka-manager)
+* [Kafka HQ](https://github.com/tchiotludo/kafkahq)
 * [Kafdrop](https://github.com/HomeAdvisor/Kafdrop)
 * [kafkat](https://github.com/airbnb/kafkat)
 * [kt](https://github.com/fgeller/kt)
