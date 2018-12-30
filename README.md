@@ -94,8 +94,6 @@ Everything about Apache Kafka
 * [Kafka-Pixy - gRPC/REST Proxy](https://github.com/mailgun/kafka-pixy)
 * [Kafka Proxy providing SASL/PLAIN authentication and SSL](https://github.com/grepplabs/kafka-proxy)
 * [Reactive/Akka API](https://github.com/akka/reactive-kafka)
-* [kafka-manager](https://github.com/yahoo/kafka-manager)
-* [Kafdrop](https://github.com/HomeAdvisor/Kafdrop)
 * [kafkat](https://github.com/airbnb/kafkat)
 * [kt](https://github.com/fgeller/kt)
 * [kafka-connect-tools](https://github.com/datamountaineer/kafka-connect-tools)
@@ -120,6 +118,10 @@ Everything about Apache Kafka
 * [Node Schema registry](https://github.com/nodefluent/schema-registry)
 
 ### UI
+* [kafka-manager](https://github.com/yahoo/kafka-manager)
+* [Kafka HQ](https://github.com/tchiotludo/kafkahq)
+* [Kafdrop](https://github.com/HomeAdvisor/Kafdrop)
+* [Kafka Webview](https://github.com/SourceLabOrg/kafka-webview)
 * [Kafka Topics UI](https://github.com/Landoop/kafka-topics-ui)
 * [Kafka Connect UI](https://github.com/Landoop/kafka-connect-ui)
 * [Kafka Schema UI](https://github.com/Landoop/schema-registry-ui)
