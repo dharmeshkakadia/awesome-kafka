@@ -30,8 +30,9 @@ Everything about Apache Kafka
 ### Kafka Streams Libraries 
 * [Scala](https://github.com/lightbend/kafka-streams-scala)
 * [faust - Python Stream Processing](https://github.com/robinhood/faust)
+* [Southpaw - Streaming left joins for data change capture](https://github.com/jwplayer/southpaw)
 
-### KSQl
+### KSQL
 * [KSQL JDBC Driver](https://github.com/mmolimar/ksql-jdbc-driver)
 * [KSQL Addon - User Defined Function (UDF) for Machine Learning](https://github.com/kaiwaehner/ksql-machine-learning-udf)
 
