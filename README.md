@@ -126,6 +126,7 @@ Everything about Apache Kafka
 * [Kafka Topics UI](https://github.com/Landoop/kafka-topics-ui)
 * [Kafka Connect UI](https://github.com/Landoop/kafka-connect-ui)
 * [Kafka Schema UI](https://github.com/Landoop/schema-registry-ui)
+* [Kafkawize - self service topic management portal](https://github.com/muralibasani/kafkawize)
 
 ### Testing
 * [Mocked Streams - Topology testing library for Kafka Streams (no broker required)](https://github.com/jpzk/mockedstreams)
