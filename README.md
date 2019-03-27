@@ -113,6 +113,7 @@ Everything about Apache Kafka
 ### Mirroring
 * [MirrorMaker](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=27846330)
 * [uReplicator](https://github.com/uber/uReplicator)
+* [MirrorTool for Kafka Connect](https://github.com/Comcast/MirrorTool-for-Kafka-Connect)
 
 ### Schema 
 * [Schema registry](https://github.com/confluentinc/schema-registry)
