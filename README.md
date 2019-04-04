@@ -118,6 +118,7 @@ Everything about Apache Kafka
 ### Schema 
 * [Schema registry](https://github.com/confluentinc/schema-registry)
 * [Node Schema registry](https://github.com/nodefluent/schema-registry)
+* [Schema Registry Transfer SMT](https://github.com/cricket007/schema-registry-transfer-smt)
 
 ### UI
 * [kafka-manager](https://github.com/yahoo/kafka-manager)
