@@ -60,6 +60,7 @@ Everything about Apache Kafka
 * [Secor - service for persisting Kafka logs](https://github.com/pinterest/secor)
 * [kafkabalancer](https://github.com/CAFxX/kafkabalancer)
 * [Yelp Kafka-Utils](https://github.com/Yelp/kafka-utils)
+* [Cerner Common Kafka utilities](https://github.com/cerner/common-kafka)
 
 <!--- ### Installation  -->
 
