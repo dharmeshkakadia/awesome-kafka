@@ -78,7 +78,8 @@ Everything about Apache Kafka
 * [HBase](https://github.com/mravi/kafka-connect-hbase)
 * [FileSystem](https://github.com/mmolimar/kafka-connect-fs)
 * [kafka-connect-protobuf-converter](https://github.com/blueapron/kafka-connect-protobuf-converter)
-* [IBM MQ](https://github.com/ibm-messaging/kafka-connect-mq-source)
+* [IBM MQ Source](https://github.com/ibm-messaging/kafka-connect-mq-source)
+* [IBM MQ Sink](https://github.com/ibm-messaging/kafka-connect-mq-sink)
 * [Azure IoT Hub](https://github.com/Azure/toketi-kafka-connect-iothub)
 
 ### Producers
