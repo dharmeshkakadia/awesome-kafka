@@ -131,6 +131,7 @@ Everything about Apache Kafka
 * [Kafka Connect UI](https://github.com/Landoop/kafka-connect-ui)
 * [Kafka Schema UI](https://github.com/Landoop/schema-registry-ui)
 * [Kafkawize - self service topic management portal](https://github.com/muralibasani/kafkawize)
+* [Kadmin - Kafka Producer/Consumer UI](https://github.com/BetterCloud/kadmin)
 
 ### Testing
 * [Mocked Streams - Topology testing library for Kafka Streams (no broker required)](https://github.com/jpzk/mockedstreams)
