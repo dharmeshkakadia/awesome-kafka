@@ -108,6 +108,7 @@ Everything about Apache Kafka
 * [Winton Kafka Streams](https://github.com/wintoncode/winton-kafka-streams)
 * [Spring-kafka](https://github.com/spring-projects/spring-kafka)
 * [Maven quick start for Kafka Connect connectors](https://github.com/jcustenborder/kafka-connect-archtype)
+* [Trifecta](https://github.com/ldaniels528/trifecta)
 
 ### Metadata
 * [Go library for Kafka metadata in Zookeeper](https://github.com/wvanbergen/kazoo-go)
