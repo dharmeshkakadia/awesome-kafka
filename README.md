@@ -81,6 +81,7 @@ Everything about Apache Kafka
 * [IBM MQ Source](https://github.com/ibm-messaging/kafka-connect-mq-source)
 * [IBM MQ Sink](https://github.com/ibm-messaging/kafka-connect-mq-sink)
 * [Azure IoT Hub](https://github.com/Azure/toketi-kafka-connect-iothub)
+* [ Kafka Connect connector for MySQL, Postgres, SQLite and MSSQL](https://github.com/nodefluent/sequelize-kafka-connect)
 
 ### Producers
 * [Maxwell's daemon - a mysql-to-json kafka producer ](https://github.com/zendesk/maxwell)
