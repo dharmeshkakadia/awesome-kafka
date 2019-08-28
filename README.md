@@ -61,6 +61,7 @@ Everything about Apache Kafka
 * [kafkabalancer](https://github.com/CAFxX/kafkabalancer)
 * [Yelp Kafka-Utils](https://github.com/Yelp/kafka-utils)
 * [Cerner Common Kafka utilities](https://github.com/cerner/common-kafka)
+* [connectctl - manage kafka connect connectors easily](https://github.com/90poe/connectctl)
 
 <!--- ### Installation  -->
 
