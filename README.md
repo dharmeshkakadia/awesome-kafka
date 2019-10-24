@@ -128,7 +128,7 @@ Everything about Apache Kafka
 ### UI
 * [kafka-manager](https://github.com/yahoo/kafka-manager)
 * [Kafka HQ](https://github.com/tchiotludo/kafkahq)
-* [Kafdrop](https://github.com/HomeAdvisor/Kafdrop)
+* [Kafdrop 3.x](https://github.com/obsidiandynamics/kafdrop) – web UI for Kafka. For versions older than 0.10.0 use [Kafdrop 2.x](https://github.com/HomeAdvisor/Kafdrop).
 * [Kafka Webview](https://github.com/SourceLabOrg/kafka-webview)
 * [Kafka Topics UI](https://github.com/Landoop/kafka-topics-ui)
 * [Kafka Connect UI](https://github.com/Landoop/kafka-connect-ui)
