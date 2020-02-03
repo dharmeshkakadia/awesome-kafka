@@ -1,6 +1,40 @@
 # awesome-kafka
 Everything about Apache Kafka
 
+Share your Mesos ❤️ through pull requests :)
+
+What can you expect to see here?
+
+* [Development](#development)
+  * [Client libraries](#client-libraries)
+  * [Kafka Streams libraries](#kafka-streams-libraries)
+  * [KSQL](#ksql)
+  * [Connectors](#connectors)
+  * [Producers](#producers)
+  * [Consumers](#consumers)
+  * [Testing](#testing)
+* [Operations](#operations)
+  * [Operational Utilities](#operational-utilities)
+  * [Monitoring](#monitoring)
+  * [Performance tools](#performance-tools)
+  * [Security](#security)
+  * [Audit](#audit)
+  * [Mirroring](#mirroring)
+  * [Backup](#backup)
+  * [Tools](#tools)
+  * [Metadata Management](#metadata-management)
+  * [Schema Management](#schema-management)
+  * [UI](#ui)
+* [Deployment](#deployment)
+  * [Kubernetes](#kubernetes)
+  * [Docker](#docker)
+  * [Integrations](#integrations)
+  * [Alternative Implementations](#alternative-implementations)
+* [Unsorted](#unsorted)
+
+
+## Development
+
 ### Client libraries
 
 * [Go](https://github.com/Shopify/sarama)
@@ -36,37 +70,6 @@ Everything about Apache Kafka
 * [KSQL JDBC Driver](https://github.com/mmolimar/ksql-jdbc-driver)
 * [KSQL Addon - User Defined Function (UDF) for Machine Learning](https://github.com/kaiwaehner/ksql-machine-learning-udf)
 
-<!--- ### Managed Services  -->
-
-### Monitoring
-* [Kafka Offset Exporter](https://github.com/echojc/kafka-offset-exporter)
-* [Fluent plugin](https://github.com/fluent/fluent-plugin-kafka)
-* [Burrow - Kafka Consumer Lag Checking](https://github.com/linkedin/Burrow)
-* [Remora](https://github.com/zalando-incubator/remora)
-* [Kafka Offset Monitoring](https://github.com/Morningstar/kafka-offset-monitor)
-* [kafka-eagle](https://github.com/smartloli/kafka-eagle)
-
-### Security
-* [Kafka Security Manager](https://github.com/simplesteph/kafka-security-manager)
-
-### Audit
-* [chaperone - A Kafka audit system](https://github.com/uber/chaperone)
-
-### Utilities
-* [Cruise control](https://github.com/linkedin/cruise-control)
-* [DoctorKafka](https://github.com/pinterest/doctorkafka/)
-* [Brucke - Inter-cluster bridge of kafka topics](https://github.com/klarna/brucke)
-* [Kafka-Kit](https://github.com/DataDog/kafka-kit)
-* [Secor - service for persisting Kafka logs](https://github.com/pinterest/secor)
-* [kafkabalancer](https://github.com/CAFxX/kafkabalancer)
-* [Yelp Kafka-Utils](https://github.com/Yelp/kafka-utils)
-* [Cerner Common Kafka utilities](https://github.com/cerner/common-kafka)
-* [connectctl - manage kafka connect connectors easily](https://github.com/90poe/connectctl)
-
-<!--- ### Installation  -->
-
-<!--- ### Best Practices  -->
-
 ### Connectors 
 
 * [JDBC](https://github.com/confluentinc/kafka-connect-jdbc)
@@ -85,13 +88,60 @@ Everything about Apache Kafka
 * [Pulsar](https://github.com/streamnative/pulsar-io-kafka)
 
 ### Producers
-* [Maxwell's daemon - a mysql-to-json kafka producer ](https://github.com/zendesk/maxwell)
+* [Maxwell's daemon - a mysql-to-json kafka producer](https://github.com/zendesk/maxwell)
 
 ### Consumers
-
 * [Spark](https://github.com/dibbhatt/kafka-spark-consumer)
 * [Storm](http://storm.apache.org/)
 * [Mapreduce](https://github.com/Conductor/kangaroo)
+
+### Testing
+* [Mocked Streams - Topology testing library for Kafka Streams (no broker required)](https://github.com/jpzk/mockedstreams)
+* [Unit-testing for embedded kafka services](https://github.com/Landoop/kafka-testing)
+* [Synthetic avro message generator for Kafka](https://github.com/Landoop/landoop-avro-generator)
+* [Kafka JUnit](https://github.com/salesforce/kafka-junit)
+* [Kafka Unit](https://github.com/chbatey/kafka-unit)
+* [Kafka for JUnit](https://github.com/mguenther/kafka-junit)
+* [embedded-kafka - in-memory Kafka instance to run your tests against](https://github.com/embeddedkafka/embedded-kafka)
+
+<!--- ### Managed Services  -->
+## Operations
+
+### Operational Utilities
+* [Cruise control](https://github.com/linkedin/cruise-control)
+* [DoctorKafka](https://github.com/pinterest/doctorkafka/)
+* [Brucke - Inter-cluster bridge of kafka topics](https://github.com/klarna/brucke)
+* [Kafka-Kit](https://github.com/DataDog/kafka-kit)
+* [Secor - service for persisting Kafka logs](https://github.com/pinterest/secor)
+* [kafkabalancer](https://github.com/CAFxX/kafkabalancer)
+* [Yelp Kafka-Utils](https://github.com/Yelp/kafka-utils)
+* [Cerner Common Kafka utilities](https://github.com/cerner/common-kafka)
+* [connectctl - manage kafka connect connectors easily](https://github.com/90poe/connectctl)
+
+### Monitoring
+* [Kafka Offset Exporter](https://github.com/echojc/kafka-offset-exporter)
+* [Fluent plugin](https://github.com/fluent/fluent-plugin-kafka)
+* [Burrow - Kafka Consumer Lag Checking](https://github.com/linkedin/Burrow)
+* [Remora](https://github.com/zalando-incubator/remora)
+* [Kafka Offset Monitoring](https://github.com/Morningstar/kafka-offset-monitor)
+* [kafka-eagle](https://github.com/smartloli/kafka-eagle)
+
+### Performance tools
+* [sangrenel](https://github.com/jamiealquiza/sangrenel)
+
+### Security
+* [Kafka Security Manager](https://github.com/simplesteph/kafka-security-manager)
+
+### Audit
+* [chaperone - A Kafka audit system](https://github.com/uber/chaperone)
+
+### Mirroring
+* [MirrorMaker](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=27846330)
+* [uReplicator](https://github.com/uber/uReplicator)
+* [MirrorTool for Kafka Connect](https://github.com/Comcast/MirrorTool-for-Kafka-Connect)
+
+### Backup
+* [Backup and Restore topics & offsets](https://github.com/itadventurer/kafka-backup)
 
 ### Tools
 
@@ -112,15 +162,10 @@ Everything about Apache Kafka
 * [Maven quick start for Kafka Connect connectors](https://github.com/jcustenborder/kafka-connect-archtype)
 * [Trifecta](https://github.com/ldaniels528/trifecta)
 
-### Metadata
+### Metadata Management
 * [Go library for Kafka metadata in Zookeeper](https://github.com/wvanbergen/kazoo-go)
 
-### Mirroring
-* [MirrorMaker](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=27846330)
-* [uReplicator](https://github.com/uber/uReplicator)
-* [MirrorTool for Kafka Connect](https://github.com/Comcast/MirrorTool-for-Kafka-Connect)
-
-### Schema 
+### Schema Management
 * [Schema registry](https://github.com/confluentinc/schema-registry)
 * [Node Schema registry](https://github.com/nodefluent/schema-registry)
 * [Schema Registry Transfer SMT](https://github.com/cricket007/schema-registry-transfer-smt)
@@ -136,14 +181,7 @@ Everything about Apache Kafka
 * [Kafkawize - self service topic management portal](https://github.com/muralibasani/kafkawize)
 * [Kadmin - Kafka Producer/Consumer UI](https://github.com/BetterCloud/kadmin)
 
-### Testing
-* [Mocked Streams - Topology testing library for Kafka Streams (no broker required)](https://github.com/jpzk/mockedstreams)
-* [Unit-testing for embedded kafka services](https://github.com/Landoop/kafka-testing)
-* [Synthetic avro message generator for Kafka](https://github.com/Landoop/landoop-avro-generator)
-* [Kafka JUnit](https://github.com/salesforce/kafka-junit)
-* [Kafka Unit](https://github.com/chbatey/kafka-unit)
-* [Kafka for JUnit](https://github.com/mguenther/kafka-junit)
-* [embedded-kafka - in-memory Kafka instance to run your tests against](https://github.com/embeddedkafka/embedded-kafka)
+## Deployment
 
 ### Kubernetes
 * [Kafka k8s operator](https://github.com/krallistic/kafka-operator)
@@ -151,10 +189,6 @@ Everything about Apache Kafka
 
 ### Docker 
 * [fast-data-dev](https://github.com/Landoop/fast-data-dev)
-
-### Performance tools
-
-* [sangrenel](https://github.com/jamiealquiza/sangrenel)
 
 ### Integrations
 
