@@ -1,7 +1,7 @@
 # awesome-kafka
 Everything about Apache Kafka
 
-Share your Mesos ❤️ through pull requests :)
+Share your Kafka ❤️ through pull requests :)
 
 What can you expect to see here?
 
