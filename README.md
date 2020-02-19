@@ -127,6 +127,7 @@ What can you expect to see here?
 * [Remora](https://github.com/zalando-incubator/remora)
 * [Kafka Offset Monitoring](https://github.com/Morningstar/kafka-offset-monitor)
 * [kafka-eagle](https://github.com/smartloli/kafka-eagle)
+* [Kafka-prometheus](https://github.com/streamthoughts/kafka-monitoring-suite-demo-prometheus)
 
 ### Performance tools
 * [sangrenel](https://github.com/jamiealquiza/sangrenel)
@@ -163,6 +164,7 @@ What can you expect to see here?
 * [Spring-kafka](https://github.com/spring-projects/spring-kafka)
 * [Maven quick start for Kafka Connect connectors](https://github.com/jcustenborder/kafka-connect-archtype)
 * [Trifecta](https://github.com/ldaniels528/trifecta)
+* [Kafka Specs](https://github.com/streamthoughts/kafka-specs)
 
 ### Metadata Management
 * [Go library for Kafka metadata in Zookeeper](https://github.com/wvanbergen/kazoo-go)
@@ -209,3 +211,4 @@ What can you expect to see here?
 * https://github.com/Landoop/kafka-connect-kcql-smt
 * https://github.com/Landoop/kafka-addons
 * https://github.com/nodefluent/purpur
+* [Azkarra Streams - lightweight java framework which makes easy to create production-ready Kafka Streams applications](https://github.com/streamthoughts/azkarra-streams)
