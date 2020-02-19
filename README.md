@@ -81,11 +81,13 @@ What can you expect to see here?
 * [BigTable](https://github.com/nodefluent/bigtable-kafka-connect)  
 * [HBase](https://github.com/mravi/kafka-connect-hbase)
 * [FileSystem](https://github.com/mmolimar/kafka-connect-fs)
+* [Streaming files from a local filesystem](https://github.com/streamthoughts/kafka-connect-file-pulse)
 * [kafka-connect-protobuf-converter](https://github.com/blueapron/kafka-connect-protobuf-converter)
 * [IBM MQ Source](https://github.com/ibm-messaging/kafka-connect-mq-source)
 * [IBM MQ Sink](https://github.com/ibm-messaging/kafka-connect-mq-sink)
 * [Azure IoT Hub](https://github.com/Azure/toketi-kafka-connect-iothub)
 * [Pulsar](https://github.com/streamnative/pulsar-io-kafka)
+
 
 ### Producers
 * [Maxwell's daemon - a mysql-to-json kafka producer](https://github.com/zendesk/maxwell)
