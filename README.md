@@ -173,6 +173,7 @@ What can you expect to see here?
 * [Schema registry](https://github.com/confluentinc/schema-registry)
 * [Node Schema registry](https://github.com/nodefluent/schema-registry)
 * [Schema Registry Transfer SMT](https://github.com/cricket007/schema-registry-transfer-smt)
+* [Expedia Stream Registry](https://github.com/ExpediaGroup/stream-registry)
 
 ### UI
 * [kafka-manager](https://github.com/yahoo/kafka-manager)
