@@ -128,6 +128,7 @@ What can you expect to see here?
 * [Kafka Offset Monitoring](https://github.com/Morningstar/kafka-offset-monitor)
 * [kafka-eagle](https://github.com/smartloli/kafka-eagle)
 * [Kafka-prometheus](https://github.com/streamthoughts/kafka-monitoring-suite-demo-prometheus)
+* [Consumer lag monitoring](https://github.com/omarsmak/kafka-consumer-lag-monitoring)
 
 ### Performance tools
 * [sangrenel](https://github.com/jamiealquiza/sangrenel)
