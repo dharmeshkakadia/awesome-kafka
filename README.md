@@ -80,6 +80,7 @@ What can you expect to see here?
 * [SQL](https://github.com/nodefluent/sequelize-kafka-connect)
 * [GCloud pubsub](https://github.com/nodefluent/gcloud-pubsub-kafka-connect)
 * [BigTable](https://github.com/nodefluent/bigtable-kafka-connect)  
+* [Google Cloud Storage (GCS)](https://github.com/aiven/aiven-kafka-connect-gcs)
 * [HBase](https://github.com/mravi/kafka-connect-hbase)
 * [FileSystem](https://github.com/mmolimar/kafka-connect-fs)
 * [Streaming files from a local filesystem](https://github.com/streamthoughts/kafka-connect-file-pulse)
