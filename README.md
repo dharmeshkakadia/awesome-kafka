@@ -12,6 +12,7 @@ What can you expect to see here?
   * [Connectors](#connectors)
   * [Producers](#producers)
   * [Consumers](#consumers)
+  * [Transformations](#transformations)
   * [Testing](#testing)
 * [Operations](#operations)
   * [Operational Utilities](#operational-utilities)
@@ -97,6 +98,9 @@ What can you expect to see here?
 * [Storm](http://storm.apache.org/)
 * [Mapreduce](https://github.com/Conductor/kangaroo)
 
+### Transformations
+* [Single Message Transformations (SMT)](https://github.com/aiven/aiven-kafka-connect-transforms)
+
 ### Testing
 * [Mocked Streams - Topology testing library for Kafka Streams (no broker required)](https://github.com/jpzk/mockedstreams)
 * [Unit-testing for embedded kafka services](https://github.com/Landoop/kafka-testing)
@@ -143,6 +147,7 @@ What can you expect to see here?
 * [MirrorMaker](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=27846330)
 * [uReplicator](https://github.com/uber/uReplicator)
 * [MirrorTool for Kafka Connect](https://github.com/Comcast/MirrorTool-for-Kafka-Connect)
+* [Mirus](https://github.com/salesforce/mirus)
 
 ### Backup
 * [Backup and Restore topics & offsets](https://github.com/itadventurer/kafka-backup)
