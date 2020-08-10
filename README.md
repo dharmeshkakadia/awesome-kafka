@@ -192,6 +192,7 @@ What can you expect to see here?
 * [Kafka Schema UI](https://github.com/Landoop/schema-registry-ui)
 * [Kafkawize - self service topic management portal](https://github.com/muralibasani/kafkawize)
 * [Kadmin - Kafka Producer/Consumer UI](https://github.com/BetterCloud/kadmin)
+* [Kowl](https://github.com/cloudhut/kowl)
 
 ## Deployment
 
