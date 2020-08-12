@@ -76,6 +76,7 @@ What can you expect to see here?
 * [JDBC](https://github.com/confluentinc/kafka-connect-jdbc)
 * [Elasticsearch](https://github.com/confluentinc/kafka-connect-elasticsearch)
 * [HDFS](https://github.com/confluentinc/kafka-connect-hdfs)
+* [Beast - Kafka to BigQuery Sink](https://github.com/gojek/beast)
 * [BigQuery](https://github.com/nodefluent/bigquery-kafka-connect)
 * [SQL](https://github.com/nodefluent/sequelize-kafka-connect)
 * [GCloud pubsub](https://github.com/nodefluent/gcloud-pubsub-kafka-connect)
