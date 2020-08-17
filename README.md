@@ -210,7 +210,6 @@ What can you expect to see here?
 ### Integrations
 
 * [Ecosystem](https://cwiki.apache.org/confluence/display/KAFKA/Ecosystem)
-* [asyncio](https://github.com/aio-libs/aiokafka)
 * [hermes](https://github.com/allegro/hermes)
 * [IBMStreams](https://github.com/IBMStreams/streamsx.kafka)
 
