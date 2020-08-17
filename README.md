@@ -156,6 +156,7 @@ What can you expect to see here?
 
 ### Tools
 
+* [Karapace - Your Kafka essentials in one tool](https://github.com/aiven/karapace)
 * [REST-proxy](https://github.com/confluentinc/kafka-rest)
 * [Kafka-Pixy - gRPC/REST Proxy](https://github.com/mailgun/kafka-pixy)
 * [Kafka Proxy providing SASL/PLAIN authentication and SSL](https://github.com/grepplabs/kafka-proxy)
