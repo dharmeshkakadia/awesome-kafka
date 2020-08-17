@@ -49,7 +49,9 @@ What can you expect to see here?
 * [Php](https://github.com/weiboad/kafka-php)
 * [Php](https://github.com/arnaud-lb/php-rdkafka)
 * [Perl](https://github.com/TrackingSoft/Kafka)
-* [Python](https://github.com/Parsely/pykafka)
+* [Python (asyncio)](https://github.com/aio-libs/aiokafka)
+* [Python (kafka-python)](https://github.com/dpkp/kafka-python)
+* [Python (pykafka)](https://github.com/Parsely/pykafka)
 * [Ruby](https://github.com/zendesk/ruby-kafka)
 * [Phobos - Ruby App framework](https://github.com/klarna/phobos)
 * [Karafka - Ruby and Rails framework](https://github.com/karafka/karafka)
@@ -208,7 +210,6 @@ What can you expect to see here?
 ### Integrations
 
 * [Ecosystem](https://cwiki.apache.org/confluence/display/KAFKA/Ecosystem)
-* [asyncio](https://github.com/aio-libs/aiokafka)
 * [hermes](https://github.com/allegro/hermes)
 * [IBMStreams](https://github.com/IBMStreams/streamsx.kafka)
 
