@@ -15,7 +15,7 @@ What can you expect to see here?
   * [Transformations](#transformations)
   * [Testing](#testing)
 * [Operations](#operations)
-  * [CI/CD](#ci-cd)
+  * [CI/CD](#cicd)
   * [Operational Utilities](#operational-utilities)
   * [Monitoring](#monitoring)
   * [Performance tools](#performance-tools)
