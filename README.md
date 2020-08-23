@@ -15,6 +15,7 @@ What can you expect to see here?
   * [Transformations](#transformations)
   * [Testing](#testing)
 * [Operations](#operations)
+  * [CI/CD](#cicd)
   * [Operational Utilities](#operational-utilities)
   * [Monitoring](#monitoring)
   * [Performance tools](#performance-tools)
@@ -116,6 +117,9 @@ What can you expect to see here?
 
 <!--- ### Managed Services  -->
 ## Operations
+
+### CI/CD
+* [kafka-gitops](https://github.com/devshawn/kafka-gitops)
 
 ### Operational Utilities
 * [Cruise control](https://github.com/linkedin/cruise-control)
