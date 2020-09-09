@@ -103,6 +103,7 @@ What can you expect to see here?
 * [Spark](https://github.com/dibbhatt/kafka-spark-consumer)
 * [Storm](http://storm.apache.org/)
 * [Mapreduce](https://github.com/Conductor/kangaroo)
+* [Divolte](https://github.com/divolte/divolte-kafka-consumer)
 
 ### Transformations
 * [Single Message Transformations (SMT)](https://github.com/aiven/aiven-kafka-connect-transforms)
