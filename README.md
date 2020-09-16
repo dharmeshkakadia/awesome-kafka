@@ -219,6 +219,7 @@ What can you expect to see here?
 * [Ecosystem](https://cwiki.apache.org/confluence/display/KAFKA/Ecosystem)
 * [hermes](https://github.com/allegro/hermes)
 * [IBMStreams](https://github.com/IBMStreams/streamsx.kafka)
+* [Brooklin](https://github.com/linkedin/brooklin)
 
 ## Alternative Implementations
 
