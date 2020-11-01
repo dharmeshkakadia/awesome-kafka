@@ -104,6 +104,7 @@ What can you expect to see here?
 * [Storm](http://storm.apache.org/)
 * [Mapreduce](https://github.com/Conductor/kangaroo)
 * [Divolte](https://github.com/divolte/divolte-kafka-consumer)
+* [Azure Data Explorer/Kusto](https://github.com/Azure/kafka-sink-azure-kusto)
 
 ### Transformations
 * [Single Message Transformations (SMT)](https://github.com/aiven/aiven-kafka-connect-transforms)
