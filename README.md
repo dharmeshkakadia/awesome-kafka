@@ -156,6 +156,7 @@ What can you expect to see here?
 
 ### Mirroring
 * [MirrorMaker](https://cwiki.apache.org/confluence/pages/viewpage.action?pageId=27846330)
+* [Message Handler For MirrorMaker to change topic names](https://github.com/opencore/mirrormaker_topic_rename)
 * [uReplicator](https://github.com/uber/uReplicator)
 * [MirrorTool for Kafka Connect](https://github.com/Comcast/MirrorTool-for-Kafka-Connect)
 * [Mirus](https://github.com/salesforce/mirus)
