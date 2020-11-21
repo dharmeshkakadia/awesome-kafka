@@ -147,6 +147,7 @@ What can you expect to see here?
 
 ### Performance tools
 * [sangrenel](https://github.com/jamiealquiza/sangrenel)
+* [KLoadGen - load generator plugin for jmeter](https://github.com/corunet/kloadgen)
 
 ### Security
 * [Kafka Security Manager](https://github.com/simplesteph/kafka-security-manager)
