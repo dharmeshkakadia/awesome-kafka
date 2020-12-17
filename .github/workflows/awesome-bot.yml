@@ -1,6 +1,6 @@
 name: awesome-bot
 
-on: [push]
+on: [pull_request]
 
 jobs:
   awesome-bot-link-check:
