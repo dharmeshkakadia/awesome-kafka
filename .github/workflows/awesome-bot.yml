@@ -1,6 +1,6 @@
 name: awesome-bot
 
-on: [push]
+on: [pull_request]
 
 jobs:
   awesome-bot-link-check:
@@ -9,4 +9,4 @@ jobs:
     - uses: actions/checkout@v1
     - uses: docker://dkhamsing/awesome_bot:latest
       with:
-        args: --allow-redirect /github/workspace/README.md
+        args: --allow-redirect /github/workspace/README.md --request-delay 1
