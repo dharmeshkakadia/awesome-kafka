@@ -66,7 +66,7 @@ What can you expect to see here?
 * [kasper - a lightweight library for processing Kafka topics](https://github.com/movio/kasper)
 * and [others](https://cwiki.apache.org/confluence/display/KAFKA/Clients)
 
-### Kafka Streams Libraries 
+### Kafka Streams Libraries
 * [Scala](https://github.com/lightbend/kafka-streams-scala)
 * [faust - Python Stream Processing](https://github.com/robinhood/faust)
 * [Southpaw - Streaming left joins for data change capture](https://github.com/jwplayer/southpaw)
@@ -75,7 +75,7 @@ What can you expect to see here?
 * [KSQL JDBC Driver](https://github.com/mmolimar/ksql-jdbc-driver)
 * [KSQL Addon - User Defined Function (UDF) for Machine Learning](https://github.com/kaiwaehner/ksql-machine-learning-udf)
 
-### Connectors 
+### Connectors
 
 * [JDBC](https://github.com/confluentinc/kafka-connect-jdbc)
 * [Elasticsearch](https://github.com/confluentinc/kafka-connect-elasticsearch)
@@ -117,6 +117,7 @@ What can you expect to see here?
 * [Kafka Unit](https://github.com/chbatey/kafka-unit)
 * [Kafka for JUnit](https://github.com/mguenther/kafka-junit)
 * [embedded-kafka - in-memory Kafka instance to run your tests against](https://github.com/embeddedkafka/embedded-kafka)
+* [Kafka Containers](https://www.testcontainers.org/modules/kafka/)
 
 <!--- ### Managed Services  -->
 ## Operations
@@ -214,7 +215,7 @@ What can you expect to see here?
 * [Strimzi](https://github.com/strimzi/strimzi-kafka-operator) Operator for deploying and running Apache Kafka on Kubernetes
 * [konsumerator - Kafka Consumer Operator](https://github.com/lwolf/konsumerator)
 
-### Docker 
+### Docker
 * [fast-data-dev](https://github.com/Landoop/fast-data-dev)
 
 ### Integrations
