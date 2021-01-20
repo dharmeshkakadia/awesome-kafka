@@ -207,6 +207,7 @@ What can you expect to see here?
 * [Kafkawize - self service topic management portal](https://github.com/muralibasani/kafkawize)
 * [Kadmin - Kafka Producer/Consumer UI](https://github.com/BetterCloud/kadmin)
 * [Kowl](https://github.com/cloudhut/kowl)
+* [Kafka Streams Topology Sketch Diagram Visualization](https://github.com/zz85/kafka-streams-viz)
 
 ## Deployment
 
