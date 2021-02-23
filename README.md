@@ -152,6 +152,7 @@ What can you expect to see here?
 
 ### Security
 * [Kafka Security Manager](https://github.com/simplesteph/kafka-security-manager)
+* [Kafka security playbook](https://github.com/Dabz/kafka-security-playbook)
 
 ### Audit
 * [chaperone - A Kafka audit system](https://github.com/uber/chaperone)
