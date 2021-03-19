@@ -187,6 +187,7 @@ What can you expect to see here?
 * [Maven quick start for Kafka Connect connectors](https://github.com/jcustenborder/kafka-connect-archtype)
 * [Trifecta](https://github.com/ldaniels528/trifecta)
 * [Kafka Specs](https://github.com/streamthoughts/kafka-specs)
+* [Strimzi Kafka CLI](https://github.com/systemcraftsman/strimzi-kafka-cli)
 
 ### Metadata Management
 * [Go library for Kafka metadata in Zookeeper](https://github.com/wvanbergen/kazoo-go)
