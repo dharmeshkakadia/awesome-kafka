@@ -127,7 +127,7 @@ What can you expect to see here?
 
 ### Operational Utilities
 * [Cruise control](https://github.com/linkedin/cruise-control)
-* [DoctorKafka](https://github.com/pinterest/doctorkafka/)
+* [DoctorKafka](https://github.com/pinterest/doctorkafka/) and its successor [Orion](https://github.com/pinterest/orion)
 * [Brucke - Inter-cluster bridge of kafka topics](https://github.com/klarna/brucke)
 * [Kafka-Kit](https://github.com/DataDog/kafka-kit)
 * [Secor - service for persisting Kafka logs](https://github.com/pinterest/secor)
