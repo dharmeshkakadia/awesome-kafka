@@ -112,7 +112,6 @@ What can you expect to see here?
 ### Testing
 * [Mocked Streams - Topology testing library for Kafka Streams (no broker required)](https://github.com/jpzk/mockedstreams)
 * [Unit-testing for embedded kafka services](https://github.com/Landoop/kafka-testing)
-* [Synthetic avro message generator for Kafka](https://github.com/Landoop/landoop-avro-generator)
 * [Kafka JUnit](https://github.com/salesforce/kafka-junit)
 * [Kafka Unit](https://github.com/chbatey/kafka-unit)
 * [Kafka for JUnit](https://github.com/mguenther/kafka-junit)
@@ -237,6 +236,5 @@ What can you expect to see here?
 ## Unsorted
 
 * https://github.com/Landoop/kafka-connect-kcql-smt
-* https://github.com/Landoop/kafka-addons
 * https://github.com/nodefluent/purpur
 * [Azkarra Streams - lightweight java framework which makes easy to create production-ready Kafka Streams applications](https://github.com/streamthoughts/azkarra-streams)
