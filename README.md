@@ -117,6 +117,7 @@ What can you expect to see here?
 * [Kafka for JUnit](https://github.com/mguenther/kafka-junit)
 * [embedded-kafka - in-memory Kafka instance to run your tests against](https://github.com/embeddedkafka/embedded-kafka)
 * [Kafka Containers](https://www.testcontainers.org/modules/kafka/)
+* [Mockintosh - through asynchronous Kafka actors](https://mockintosh.io/)
 
 <!--- ### Managed Services  -->
 ## Operations
