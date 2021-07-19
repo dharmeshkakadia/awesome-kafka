@@ -32,6 +32,7 @@ What can you expect to see here?
   * [Docker](#docker)
   * [Integrations](#integrations)
   * [Alternative Implementations](#alternative-implementations)
+* [Project built on top of Kafka](#projects-built-on-top-of-Kafka)
 * [Unsorted](#unsorted)
 
 
@@ -233,6 +234,10 @@ What can you expect to see here?
 
 * [Go](https://github.com/travisjeffery/jocko)
 * [C/C++](https://github.com/edenhill/librdkafka)
+
+## Project built on top of Kafka
+* [In-Memory Cache Backed by Kafka](https://github.com/rayokota/kcache)
+* [ransactional Metadata Store Backed by Kafka](https://github.com/rayokota/keta)
 
 ## Unsorted
 
