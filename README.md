@@ -106,8 +106,11 @@ What can you expect to see here?
 * [Mapreduce](https://github.com/Conductor/kangaroo)
 * [Divolte](https://github.com/divolte/divolte-kafka-consumer)
 * [Azure Data Explorer/Kusto](https://github.com/Azure/kafka-sink-azure-kusto)
+* [Firehose](https://github.com/odpf/firehose) - Firehose is an extensible, no-code, and cloud-native service to load real-time streaming data from Kafka to data stores, data lakes, and analytical storage systems.
+* [Raccoon](https://github.com/odpf/raccoon) - Raccoon is a high-throughput, low-latency service to collect events in real-time from your web, mobile apps, and services using multiple network protocols and publish to Kafka.
 
 ### Transformations
+* [Dagger](https://github.com/odpf/dagger) - Dagger is an easy-to-use, SQL framework to process built on top of Apache Flink for stateful processing of Kafka data.
 * [Single Message Transformations (SMT)](https://github.com/aiven/aiven-kafka-connect-transforms)
 
 ### Testing
@@ -192,8 +195,10 @@ What can you expect to see here?
 
 ### Metadata Management
 * [Go library for Kafka metadata in Zookeeper](https://github.com/wvanbergen/kazoo-go)
+* [Meteor](https://github.com/odpf/meteor) - Meteor is a scalable, easy-to-use, extensible metadata collection framework from the different cloud providers and on-prem sources and publish to Kafka.
 
 ### Schema Management
+* [Stencil](https://github.com/odpf/stencil) - Stencil is a Protobuf schema registry for Kafka that enables you to create, maintain and consume protobuf messages and APIs dynamically, efficiently, and reliably.
 * [Schema registry](https://github.com/confluentinc/schema-registry)
 * [Node Schema registry](https://github.com/nodefluent/schema-registry)
 * [Schema Registry Transfer SMT](https://github.com/cricket007/schema-registry-transfer-smt)
