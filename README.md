@@ -71,6 +71,7 @@ What can you expect to see here?
 * [Scala](https://github.com/lightbend/kafka-streams-scala)
 * [faust - Python Stream Processing](https://github.com/robinhood/faust)
 * [Southpaw - Streaming left joins for data change capture](https://github.com/jwplayer/southpaw)
+* [Bytewax - Python Stateful Stream Processing Framework](https://github.com/bytewax/bytewax)
 
 ### KSQL
 * [KSQL JDBC Driver](https://github.com/mmolimar/ksql-jdbc-driver)
@@ -96,6 +97,7 @@ What can you expect to see here?
 * [Azure IoT Hub](https://github.com/Azure/toketi-kafka-connect-iothub)
 * [Pulsar](https://github.com/streamnative/pulsar-io-kafka)
 * [HTTP](https://github.com/thomaskwscott/kafka-connect-http)
+* [Stream Reactor](https://github.com/lensesio/stream-reactor) - Collection of Apache 2.0 connectors to popular sources and sinks
 
 ### Producers
 * [Maxwell's daemon - a mysql-to-json kafka producer](https://github.com/zendesk/maxwell)
@@ -168,12 +170,14 @@ What can you expect to see here?
 * [uReplicator](https://github.com/uber/uReplicator)
 * [MirrorTool for Kafka Connect](https://github.com/Comcast/MirrorTool-for-Kafka-Connect)
 * [Mirus](https://github.com/salesforce/mirus)
+* [K2K](https://docs.lenses.io/latest/k2k) - Kafka to Kafka replication by Lenses.io
 
 ### Backup
 * [Backup and Restore topics & offsets](https://github.com/itadventurer/kafka-backup)
 
 ### Tools
 
+* [Lenses.io DevX Tooling](https://docs.lenses.io/latest)
 * [Karapace - Your Kafka essentials in one tool](https://github.com/aiven/karapace)
 * [REST-proxy](https://github.com/confluentinc/kafka-rest)
 * [Kafka-Pixy - gRPC/REST Proxy](https://github.com/mailgun/kafka-pixy)
