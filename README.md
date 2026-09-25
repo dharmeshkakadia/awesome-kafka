@@ -129,6 +129,7 @@ What can you expect to see here?
 
 ### CI/CD
 * [kafka-gitops](https://github.com/devshawn/kafka-gitops)
+* [cdclint - lint a Debezium connector config against Postgres migrations and the sink schema in CI](https://github.com/avison9/cdclint)
 
 ### Operational Utilities
 * [Cruise control](https://github.com/linkedin/cruise-control)
