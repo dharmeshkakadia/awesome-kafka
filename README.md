@@ -219,6 +219,7 @@ What can you expect to see here?
 * [Kowl](https://github.com/cloudhut/kowl)
 * [Kafka Streams Topology Sketch Diagram Visualization](https://github.com/zz85/kafka-streams-viz)
 * [Web based GUI](https://github.com/provectus/kafka-ui)
+* [LibreDB Studio - web-based multi-database IDE with a read-only Kafka browser for topics, consumer group lag, brokers and messages by offset or timestamp](https://github.com/libredb/libredb-studio)
 
 ## Deployment
 
