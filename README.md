@@ -96,7 +96,7 @@ What can you expect to see here?
 * [Azure IoT Hub](https://github.com/Azure/toketi-kafka-connect-iothub)
 * [Pulsar](https://github.com/streamnative/pulsar-io-kafka)
 * [HTTP](https://github.com/thomaskwscott/kafka-connect-http)
-* [OLake](https://github.com/datazip-inc/olake) - Open-source Kafka to Apache Iceberg sink with checkpointed, parallel consumption, alongside CDC from Postgres, MySQL, MongoDB, Oracle and SQL Server. Written in Go
+* [OLake](https://github.com/datazip-inc/olake) - Kafka to Apache Iceberg sync, written in Go
 
 ### Producers
 * [Maxwell's daemon - a mysql-to-json kafka producer](https://github.com/zendesk/maxwell)
