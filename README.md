@@ -44,6 +44,7 @@ What can you expect to see here?
 * [Go](https://github.com/jdamick/kafka)
 * [Go](https://github.com/optiopay/kafka)
 * [Go Kafka streaming](https://github.com/lovoo/goka)
+* [Go Kafka event bus](https://github.com/korableg/bus)
 * [Node](https://kafka.js.org)
 * [Node](https://github.com/oleksiyk/kafka)
 * [Node](https://github.com/nodefluent/node-sinek)
