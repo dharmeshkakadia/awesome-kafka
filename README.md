@@ -123,6 +123,7 @@ What can you expect to see here?
 * [embedded-kafka - in-memory Kafka instance to run your tests against](https://github.com/embeddedkafka/embedded-kafka)
 * [Kafka Containers](https://www.testcontainers.org/modules/kafka/)
 * [Mockintosh - through asynchronous Kafka actors](https://mockintosh.io/)
+* [JSON2Class Kafka Message Generator - browser-based test message, Java producer snippet and kcat command generator from an Avro or JSON schema](https://json2class.com/en/kafka-message-generator/)
 
 <!--- ### Managed Services  -->
 ## Operations
